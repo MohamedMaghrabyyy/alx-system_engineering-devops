@@ -1,2 +1,2 @@
 #!/bin/bash
-ls [0-9:][[:alpha:]]* --format==comma -p
+ls [0-9][:alpha:]  --format==comma -p
