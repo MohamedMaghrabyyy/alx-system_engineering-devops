@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "as iacta alea est" ./iacta
+head -n 3 ./iacta
