@@ -1,1 +1,1 @@
-Practice for creating scripts with certain functionalities
+Task 0: added
