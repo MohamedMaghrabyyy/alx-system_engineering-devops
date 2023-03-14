@@ -1,2 +1,2 @@
 #!/bin/bash
-var1="$(($water\#$WATER)) ; var2="$(($stir\#$STIR)) ; printf '%x\n' $((var1+var2))
+  printf '%x\n'  $( $(($water#$WATER)+($stir#$STIR))  )
